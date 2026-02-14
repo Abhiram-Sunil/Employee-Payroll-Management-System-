@@ -1,6 +1,6 @@
 # Employee Payroll System
 
-**Team Members:** Abhiram S & Abhiskek A
+**Team Members:** Abhiram S & Abhiskek K B
 
 ## Problem Statement and Objective
 
